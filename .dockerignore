@@ -1,0 +1,10 @@
+.git
+node_modules
+.local
+.env
+secrets
+.parcel-cache
+web-dist
+server-dist
+*.dump
+*.log
